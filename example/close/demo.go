@@ -5,7 +5,6 @@ import (
 	"time"
 
 	"github.com/Noobygames/amqp"
-
 	"github.com/Noobygames/go-amqp-reconnect/rabbitmq"
 )
 
